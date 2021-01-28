@@ -1,0 +1,23 @@
+%YAML 1.1
+---
+worlds:
+-   sealevel: 63
+    nether: false
+    name: DIM1
+    the_end: true
+    title: dimension
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: 新的世界
+    the_end: false
+    title: dimension
+    height: 256
+-   sealevel: 63
+    nether: true
+    name: DIM-1
+    the_end: false
+    title: dimension
+    height: 256
+useSaveFolderAsName: true
+maxWorldHeight: 256
